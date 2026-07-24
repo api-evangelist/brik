@@ -1,0 +1,19 @@
+# Brik
+
+> Brik ("[Re]Constructing Construction") is an Indonesian construction-materials
+> company that operates concrete batching plants and supplies ready-mix concrete
+> for building projects across the Greater Jakarta region. Backed by Accel. Brik
+> does not currently publish a public developer API, OpenAPI specification, SDKs,
+> or webhook surface; this profile is maintained in the API Evangelist network as
+> a company record.
+
+## Company
+- [Brik website](https://brik.id/): Ready-mix concrete supply, batching plants, and project delivery.
+- [Brik articles](https://brik.id/articles/): Company articles and project updates.
+
+## Coverage
+- Service area: Greater Jakarta — Bekasi, Bogor, Karawang, and Bandung.
+- Products: standard ready-mix concrete and "Super Concrete" variants; mass-concrete pours.
+
+## APIs
+- None published. No public REST/GraphQL API, OpenAPI/AsyncAPI specification, or SDKs were found at the time of enrichment.
